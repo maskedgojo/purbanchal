@@ -19,10 +19,10 @@ class ProductsSection {
 
           <!-- Product Cards Grid -->
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-            ${this.createCard("/src/textures/cement-01.png", "Surya Concretic", "By supplying factory fresh cement to the big construction sites...", 0)}
-            ${this.createCard("/src/textures/cement-02.png", "Surya PPC", "PPC or Portland Pozzolana Cement is a kind of blended cement...", 100)}
-            ${this.createCard("/src/textures/home-opc.png", "Surya OPC", "Ordinary Portland Cement (OPC) is a product obtained by intimately....", 200)}
-            ${this.createCard("/src/textures/truck.png", "Fresh Bulk Cement", "By supplying factory fresh cement to the big construction sites...", 300)}
+            ${this.createCard("/public/cement-01.png", "Surya Concretic", "By supplying factory fresh cement to the big construction sites...", 0)}
+            ${this.createCard("/public/cement-02.png", "Surya PPC", "PPC or Portland Pozzolana Cement is a kind of blended cement...", 100)}
+            ${this.createCard("/public/home-opc.png", "Surya OPC", "Ordinary Portland Cement (OPC) is a product obtained by intimately....", 200)}
+            ${this.createCard("/public/truck.png", "Fresh Bulk Cement", "By supplying factory fresh cement to the big construction sites...", 300)}
           </div>
 
         </div>

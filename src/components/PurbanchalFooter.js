@@ -5,7 +5,7 @@ class PurbanchalFooter {
 
     container.innerHTML = `
       <footer class="purbanchal-footer relative text-white pt-16 pb-6 px-6 sm:px-10 lg:px-28 overflow-hidden bg-no-repeat bg-cover bg-center"
-              style="background-image: url('/src/textures/city.jpg')">
+              style="background-image: url('/public/city.jpg')">
         
         <!-- Glassy Dark Overlay -->
 <!-- Darker Glassy Overlay (No Blur) -->

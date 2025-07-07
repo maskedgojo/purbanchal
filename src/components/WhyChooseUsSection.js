@@ -9,7 +9,7 @@ class WhyChooseUsSection {
 
   render() {
     this.container.innerHTML = `
-      <section class="relative bg-[url('/src/textures/why.jpg')] bg-cover bg-center bg-no-repeat py-24 px-6 sm:px-8 lg:px-24 mr-2 ml-0.5 text-white overflow-hidden">
+      <section class="relative bg-[url('/public/why.jpg')] bg-cover bg-center bg-no-repeat py-24 px-6 sm:px-8 lg:px-24 mr-2 ml-0.5 text-white overflow-hidden">
         <!-- Gradient Glass Overlay -->
         <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/70 to-black/90 backdrop-blur-sm z-0"></div>
 
