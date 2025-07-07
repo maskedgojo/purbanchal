@@ -29,7 +29,7 @@ class AboutSection {
 render() {
     console.log("=== RENDERING ABOUT SECTION HTML ===");
 this.container.innerHTML = `
-<section class="about-container relative bg-[url('/public/bg.jpg')] bg-cover bg-fixed bg-center bg-no-repeat py-10 md:py-16">
+<section class="about-container relative bg-[url('//bg.jpg')] bg-cover bg-fixed bg-center bg-no-repeat py-10 md:py-16">
     
     <!-- Glassy dark overlay -->
 <div class="absolute inset-0 bg-gradient-to-b from-[#111111]/90 via-[#2a2a2a]/85 to-[#302519]/60 backdrop-blur-sm z-0"></div>

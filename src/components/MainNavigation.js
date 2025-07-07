@@ -148,7 +148,7 @@ class MainNavigation {
 
         <!-- ===== card 1 ===== -->
         <a href="#" class="block group">
-          <img src="/public/cement-01.png" alt="Ordinary Portland Cement"
+          <img src="//cement-01.png" alt="Ordinary Portland Cement"
                class="w-full h-32 object-contain bg-[#12151c] rounded-md mb-3
                       transition-transform duration-300 group-hover:scale-105">
           <h5 class="text-yellow-400 font-semibold uppercase tracking-wide">
@@ -161,7 +161,7 @@ class MainNavigation {
 
         <!-- ===== card 2 ===== -->
         <a href="#" class="block group">
-          <img src="/public/cement-02.png" alt="Portland Pozzolana Cement"
+          <img src="//cement-02.png" alt="Portland Pozzolana Cement"
                class="w-full h-32 object-contain bg-[#12151c] rounded-md mb-3
                       transition-transform duration-300 group-hover:scale-105">
           <h5 class="text-yellow-400 font-semibold uppercase tracking-wide">
@@ -174,7 +174,7 @@ class MainNavigation {
 
         <!-- ===== card 3 ===== -->
         <a href="#" class="block group">
-          <img src="/public/home-opc.png" alt="Composite Cement"
+          <img src="//home-opc.png" alt="Composite Cement"
                class="w-full h-32 object-contain bg-[#12151c] rounded-md mb-3
                       transition-transform duration-300 group-hover:scale-105">
           <h5 class="text-yellow-400 font-semibold uppercase tracking-wide">
@@ -187,7 +187,7 @@ class MainNavigation {
 
         <!-- ===== card 4 ===== -->
         <a href="#" class="block group">
-          <img src="/public/truck.png" alt="Sulphate Resistant Cement"
+          <img src="//truck.png" alt="Sulphate Resistant Cement"
                class="w-full h-32 object-contain bg-[#12151c] rounded-md mb-3
                       transition-transform duration-300 group-hover:scale-105">
           <h5 class="text-yellow-400 font-semibold uppercase tracking-wide">
@@ -566,7 +566,7 @@ setupMegaMenuInteractivity() {
         'ISO 9001:2008 & 14000:2004 certified for quality and environment.',
         'Creators of Surya Gold and Surya Concretec — trusted regional brands.'
       ],
-      image: '/public/about.jpg',
+      image: '//about.jpg',
       title: 'Company Profile',
       description: 'Driving infrastructure growth in the North East with certified quality and trusted brands.'
     },
@@ -576,7 +576,7 @@ setupMegaMenuInteractivity() {
         'Focused on building future leaders through scale and excellence.',
         'Committed to affordable quality cement and regional empowerment.'
       ],
-      image: '/public/Vedant.jpg',
+      image: '//Vedant.jpg',
       title: 'Vedant Agarwal',
       description: 'Director'
     },
@@ -586,7 +586,7 @@ setupMegaMenuInteractivity() {
         'On-site support with Rebound Hammers and testing equipment.',
         'Guidance for RCC slab casting and economical cement usage.'
       ],
-      image: '/public/WhatsApp-Image-2024-04-16-at-19.00.28.jpeg',
+      image: '//WhatsApp-Image-2024-04-16-at-19.00.28.jpeg',
       title: 'Technical Services Range',
       description: 'On-site engineering support and testing for efficient, quality construction.'
     },
@@ -596,7 +596,7 @@ setupMegaMenuInteractivity() {
         'Census-backed outreach to underserved construction zones.',
         'Support to masons, IHBs, and contractors with technical collaboration.'
       ],
-      image: '/public/WhatsApp-Image-2024-08-29-at-17.04.08-1.jpeg',
+      image: '//WhatsApp-Image-2024-08-29-at-17.04.08-1.jpeg',
       title: 'Ready-Mix Group',
       description: 'Empowering rural construction through local partnerships and ready-mix solutions.'
     },
@@ -606,7 +606,7 @@ setupMegaMenuInteractivity() {
         'Highlighting CSR efforts and sustainability initiatives.',
         'Sharing milestones and strategic decisions with the public.'
       ],
-      image: '/public/PRESS.jpg',
+      image: '//PRESS.jpg',
       title: 'Press Releases',
       description: 'Company news that shapes perception and builds transparency.'
     },
@@ -616,7 +616,7 @@ setupMegaMenuInteractivity() {
         'Brochures that reflect our values and technical strength.',
         'Consistent brand messaging across traditional media.'
       ],
-      image: '/public/ADS.jpeg',
+      image: '//ADS.jpeg',
       title: 'Print Media Campaigns',
       description: 'Carrying trust through the printed word across decades.'
     },
@@ -626,7 +626,7 @@ setupMegaMenuInteractivity() {
         'Localized messaging for regional outreach.',
         'Testimonial stories that build authentic brand connection.'
       ],
-      image: '/public/truck.png',
+      image: '//truck.png',
       title: 'TV Commercials',
       description: 'Visual storytelling that bridges brand and audience across screens.'
     },
@@ -636,7 +636,7 @@ setupMegaMenuInteractivity() {
         'Hoardings that dominate urban and rural skylines.',
         'Branded presence in transit spaces like bus stops and highways.'
       ],
-      image: '/public/OUTDOOR.jpg',
+      image: '//OUTDOOR.jpg',
       title: 'Outdoor Advertising',
       description: 'Maximum impact with real-world brand visibility across regions.'
     },
@@ -646,7 +646,7 @@ setupMegaMenuInteractivity() {
         'Retail standees and dealer boards for in-store storytelling.',
         'Immersive setups that elevate the shopper’s brand experience.'
       ],
-      image: '/public/cement-02.png',
+      image: '//cement-02.png',
       title: 'Inshop Branding',
       description: 'Creating memorable retail moments through sharp in-store visuals.'
     },
@@ -656,7 +656,7 @@ setupMegaMenuInteractivity() {
         'Preheater towers enhance thermal exchange, saving fuel and emissions.',
         'Rapid cooling preserves mineralogy, improving cement quality.'
       ],
-      image: '/public/CLINKER.jpg',
+      image: '//CLINKER.jpg',
       title: 'Clinker Manufacturing',
       description: 'Core thermal process that transforms raw materials into cement clinker.'
     },
@@ -666,7 +666,7 @@ setupMegaMenuInteractivity() {
         'Vertical roller mills ensure energy-efficient grinding.',
         'Separators classify fine particles for improved quality.'
       ],
-      image: '/public/grinding-process.jpg',
+      image: '//grinding-process.jpg',
       title: 'Cement Grinding',
       description: 'Refining clinker into high-grade cement powder with precision machinery.'
     },
@@ -676,7 +676,7 @@ setupMegaMenuInteractivity() {
         'Clinker moves seamlessly through automated systems.',
         'Final product is packed for bulk or retail distribution.'
       ],
-      image: '/public/PROCESS.jpg',
+      image: '//PROCESS.jpg',
       title: 'Process Flow',
       description: 'End-to-end visibility into cement’s journey from raw input to packaged output.'
     },
@@ -686,7 +686,7 @@ setupMegaMenuInteractivity() {
         'Sample prep labs ensure consistency and compliance.',
         'Strength testing verifies load-bearing capacity.'
       ],
-      image: '/public/cement-01.png',
+      image: '//cement-01.png',
       title: 'Quality Control',
       description: 'Laboratory-backed quality checks across every stage of production.'
     },
@@ -696,7 +696,7 @@ setupMegaMenuInteractivity() {
         'Dispatch silos streamline real-time order fulfillment.',
         'Fleet management tools optimize delivery routes.'
       ],
-      image: '/public/WhatsApp-Image-2024-04-16-at-19.00.28.jpeg',
+      image: '//WhatsApp-Image-2024-04-16-at-19.00.28.jpeg',
       title: 'Logistics',
       description: 'Streamlined transport and dispatch systems for bulk delivery.'
     }
